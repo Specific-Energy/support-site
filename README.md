@@ -1,6 +1,6 @@
 <!-- Title -->
 <p align="center">
-	<img src="images/logo-transparent.svg" alt="Logo" width="250" height="80">
+	<img src="docs/images/logo-transparent.svg" alt="Logo" width="250" height="80">
 </p>
 
 # Support Docs
