@@ -1,0 +1,26 @@
+# title: MkDocs configurate file
+# authors:
+#   - Waseem Mehany
+# date: 09-06-2022
+
+site_name: Specific Energy Docs
+site_url: https://docs.specificenergy.com/
+
+nav:
+  - Home: index.md
+  - Components panel:
+    - components/containers.md  
+    - components/basics.md  
+    - components/charts.md  
+    - components/set-points.md  
+    - components/live-values.md  
+    - components/alarms.md  
+    - components/analytics.md  
+    - components/navigation.md
+  - Layers panel: layers.md  
+  - Settings panel: 
+    - settings/tags.md  
+    - settings/style.md  
+    - settings/settings.md  
+
+theme: gitbook
