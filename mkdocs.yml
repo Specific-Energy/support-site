@@ -6,6 +6,15 @@
 site_name: Specific Energy Docs
 site_url: https://docs.specificenergy.com/
 
+theme: 
+  name: material
+  logo: assets/images/logo-white.png
+  features:
+    - navigation.expand
+
+extra_css:
+  - assets/styles/extra.css
+
 nav:
   - Home: index.md
   - Components panel:
@@ -22,5 +31,3 @@ nav:
     - settings/tags.md  
     - settings/style.md  
     - settings/settings.md  
-
-theme: gitbook
