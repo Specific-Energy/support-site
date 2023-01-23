@@ -1,13 +1,48 @@
 :root > * {
-	--md-primary-fg-color:        #056839;
+	--md-primary-fg-color:        #fff;
 	--md-primary-fg-color--light: #ECB7B7;
 	--md-primary-fg-color--dark:  #90030C;
+
+	--md-typeset-a-color: #056839;
 }
 
+.md-header {
+	color: black;
+}
 .md-header--shadow {
 	box-shadow: none;
 }
 
 .md-copyright {
 	display: none;
+}
+
+.md-sidebar.md-sidebar--secondary {
+	display: none;
+}
+
+.md-header__title {
+	display: none;
+	color: rgba(34, 34, 34, 0.7);
+	margin: 0.2rem;
+    padding: 0.4rem;
+}
+
+
+.md-search {
+	flex-grow: 1;
+}
+.md-search__form {
+	background-color: transparent;
+	border: 1px solid rgba(34, 34, 34, 0.7);
+}
+.md-search__input::placeholder {
+	color: rgba(34, 34, 34, 0.7);
+
+}
+.md-search__form:hover {
+	border: 1px solid rgba(34, 34, 34, 1);
+}
+.md-search__icon.md-icon {
+	color: #222;
 }

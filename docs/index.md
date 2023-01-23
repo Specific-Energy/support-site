@@ -1,38 +1,8 @@
-# Welcome
-
-## Overview
-Learn the specificenergy.com software
-
-
-## HMI screens layout
+# **Admin**
+&nbsp;&nbsp;&nbsp;&nbsp;[How do I remove access for a user?](admin/removeAccess/removeAccess.md)
+<br>
 
 
-**Components**
->[Containers](/components/containers)
-
->[Basics](/components/basics)
-
->[Charts](/components/charts)
-		
->[Set Points](/components/set-points)
-
->[Live Values](/components/live-values)
-
->[Alarms](/components/alarms)
-
->[Analytics](/components/analytics)
-
->[Navigation](/components/navigation)
-
-
-**Layers**
->[Layers](/layers)
-
-
-**Settings**
->[Tags](/settings/tags)
-
->[Style](/settings/style)
-
->[Settings](/settings/settings)
-
+# **Dashboards**
+&nbsp;&nbsp;&nbsp;&nbsp;[How do I change the time zone for the dashboard?](dashboards/timeZones/timeZones.md.md)
+<br>

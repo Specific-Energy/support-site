@@ -3,12 +3,12 @@
 #   - Waseem Mehany
 # date: 09-06-2022
 
-site_name: Specific Energy Docs
+site_name: FAQs
 site_url: https://docs.specificenergy.com/
 
 theme: 
   name: material
-  logo: assets/images/logo-white.png
+  logo: assets/images/logo-color.png
   features:
     - navigation.expand
 
@@ -17,17 +17,15 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Components panel:
-    - components/containers.md  
-    - components/basics.md  
-    - components/charts.md  
-    - components/set-points.md  
-    - components/live-values.md  
-    - components/alarms.md  
-    - components/analytics.md  
-    - components/navigation.md
-  - Layers panel: layers.md  
-  - Settings panel: 
-    - settings/tags.md  
+  - Admin:
+    - admin/removeAccess/removeAccess.md
+  - Login:
+    - login/accountSetup/accountSetup.md
+  - Alarms:
+    - alarms/alarms.md
+  - Dashboard: 
+    - dashboards/timeZones/timeZones.md
+    - dashboards/accessDashboards/accessDashboards.md
+  - HMI:
     - settings/style.md  
-    - settings/settings.md  
+    - settings/settings.md
