@@ -2,67 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.specificenergy.com/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.specificenergy.com/about/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <lastmod>2023-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/components/alarms/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <loc>https://docs.specificenergy.com/admin/removeAccess/removeAccess/</loc>
+         <lastmod>2023-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/components/analytics/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <loc>https://docs.specificenergy.com/dashboards/accessDashboards/Accessing%20Specific%20Energy%20Dashboard/</loc>
+         <lastmod>2023-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/components/basics/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <loc>https://docs.specificenergy.com/dashboards/accessDashboards/accessDashboard/</loc>
+         <lastmod>2023-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/components/charts/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <loc>https://docs.specificenergy.com/dashboards/timeZones/timeZones/</loc>
+         <lastmod>2023-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/components/containers/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <loc>https://docs.specificenergy.com/login/accountSetup/accountSetup/</loc>
+         <lastmod>2023-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/components/live-values/</loc>
-         <lastmod>2022-09-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.specificenergy.com/components/navigation/</loc>
-         <lastmod>2022-09-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.specificenergy.com/components/set-points/</loc>
-         <lastmod>2022-09-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.specificenergy.com/settings/settings/</loc>
-         <lastmod>2022-09-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.specificenergy.com/settings/style/</loc>
-         <lastmod>2022-09-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.specificenergy.com/settings/tags/</loc>
-         <lastmod>2022-09-06</lastmod>
+         <loc>https://docs.specificenergy.com/login/tfa/tfa/</loc>
+         <lastmod>2023-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
