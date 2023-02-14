@@ -1,43 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.specificenergy.com/</loc>
-         <lastmod>2023-01-27</lastmod>
+         <loc>https://support.specificenergy.com/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/about/</loc>
-         <lastmod>2023-01-27</lastmod>
+         <loc>https://support.specificenergy.com/about/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/admin/removeAccess/removeAccess/</loc>
-         <lastmod>2023-01-27</lastmod>
+         <loc>https://support.specificenergy.com/faq/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/dashboards/accessDashboards/Accessing%20Specific%20Energy%20Dashboard/</loc>
-         <lastmod>2023-01-27</lastmod>
+         <loc>https://support.specificenergy.com/faq/admin/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/dashboards/accessDashboards/accessDashboard/</loc>
-         <lastmod>2023-01-27</lastmod>
+         <loc>https://support.specificenergy.com/faq/admin/managingUsers/managingUsers/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/dashboards/timeZones/timeZones/</loc>
-         <lastmod>2023-01-27</lastmod>
+         <loc>https://support.specificenergy.com/faq/admin/readWrite/readWrite/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/login/accountSetup/accountSetup/</loc>
-         <lastmod>2023-01-27</lastmod>
+         <loc>https://support.specificenergy.com/faq/admin/removeAccess/removeAccess/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.specificenergy.com/login/tfa/tfa/</loc>
-         <lastmod>2023-01-27</lastmod>
+         <loc>https://support.specificenergy.com/faq/admin/resetPassAndTfa/resetPassAndTfa/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/faq/admin/resetPassEmail/resetPassEmail/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/faq/alarms/cantConnect/cantConnect/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/faq/dashboards/accessDashboards/accessDashboard/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/faq/dashboards/timeZones/timeZones/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/faq/login/accountSetup/accountSetup/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/faq/login/tfa/tfa/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/ref/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/ref/dashboards/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/ref/devices/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/ref/hmi/</loc>
+         <lastmod>2023-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://support.specificenergy.com/ref/settings/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
