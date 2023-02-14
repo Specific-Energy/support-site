@@ -13,12 +13,10 @@ title:
 
 ## Popular articles
 
-[How do I remove access for a user?](admin/removeAccess/removeAccess.md)
+[How do I remove access for a user?](./faq/admin/removeAccess/removeAccess.md)
 
-[How do I change the time zone for the dashboard?](dashboards/timeZones/timeZones.md.md)
+[How do I change the time zone for the dashboard?](./faq/dashboards/timeZones/timeZones.md)
 
-[How do I change the time zone for the dashboard?](dashboards/timeZones/timeZones.md.md)
+[How do I reset my password or two-factor?](./faq/admin/resetPassAndTfa/resetPassAndTfa.md)
 
-[How do I change the time zone for the dashboard?](dashboards/timeZones/timeZones.md.md)
-
-[How do I change the time zone for the dashboard?](dashboards/timeZones/timeZones.md.md)
+[I received an alarm for "Can't connect to the device"](./faq/alarms/cantConnect/cantConnect.md)

@@ -61,24 +61,31 @@ extra_css:
 nav:
   - Home: 
     - index.md
-    - Frequently Asked Questions: how-to/index.md
-    - Quick reference guides: reference/index.md
+    - Frequently Asked Questions: faq/index.md
+    - Quick reference guides: ref/index.md
   - Frequently Asked Questions:
-    - how-to/index.md
+    - faq/index.md
     - Admin:
-      - how-to/admin/removeAccess/removeAccess.md
-      - how-to/admin/managingUsers/managingUsers.md
-    - Login:
-      - how-to/login/accountSetup/accountSetup.md
+      - faq/admin/removeAccess/removeAccess.md
+      - faq/admin/managingUsers/managingUsers.md
+      - faq/admin/resetPassAndTfa/resetPassAndTfa.md
     - Alarms:
-      - how-to/alarms/alarms.md
+      - faq/alarms/cantConnect/cantConnect.md
     - Dashboard: 
-      - how-to/dashboards/timeZones/timeZones.md
-      - how-to/dashboards/accessDashboards/accessDashboards.md
+      - faq/dashboards/timeZones/timeZones.md
+      - faq/dashboards/accessDashboards/accessDashboards.md
+    - Login:
+      - faq/login/accountSetup/accountSetup.md
   - Quick Reference:
-    - reference/index.md
-    - HMI:
-      - settings/style.md  
-      - settings/settings.md
+    - ref/index.md
+    - Devices:
+      - ref/devices/index.md
+    - System settings:
+      - ref/settings/index.md
+    - HMI Screens:
+      - ref/hmi/index.md  
+    - Dashboards:
+      - ref/dashboards/index.md
+
 
   
