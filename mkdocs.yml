@@ -29,7 +29,8 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-    - navigation.tracking
+    # - navigation.tracking
+    - navigation.path
     - search.highlight
     - search.share
     - search.suggest
@@ -69,11 +70,13 @@ nav:
       - faq/admin/removeAccess/removeAccess.md
       - faq/admin/managingUsers/managingUsers.md
       - faq/admin/resetPassAndTfa/resetPassAndTfa.md
+      - faq/admin/readWrite/readWrite.md
+      - faq/admin/resetPassEmail/resetPassEmail.md
     - Alarms:
       - faq/alarms/cantConnect/cantConnect.md
     - Dashboard: 
       - faq/dashboards/timeZones/timeZones.md
-      - faq/dashboards/accessDashboards/accessDashboards.md
+      - faq/dashboards/accessDashboards/accessDashboard.md
     - Login:
       - faq/login/accountSetup/accountSetup.md
   - Quick Reference:

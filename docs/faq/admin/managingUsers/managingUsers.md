@@ -16,7 +16,8 @@
 
 7. Use checkboxes to enable Admin Privileges and write permissions for tag and device configuration. 
 
-**Update User Settings and Reset Credentials**
+	<br>
+	**Update User Settings and Reset Credentials**
 
 8. Deactivate account to remove access to Specific Energy Dashboard.
 

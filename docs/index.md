@@ -2,7 +2,6 @@
 title: 
 ---
 
-
 <div class="home-page__search-box__wrapper">
 	<h1>How can we help?</h1>
 	<div class="home-page__search-box__container">
@@ -11,7 +10,7 @@ title:
 	</div>
 </div>
 
-## Popular articles
+## Frequently Asked Questions
 
 [How do I remove access for a user?](./faq/admin/removeAccess/removeAccess.md)
 
@@ -20,3 +19,13 @@ title:
 [How do I reset my password or two-factor?](./faq/admin/resetPassAndTfa/resetPassAndTfa.md)
 
 [I received an alarm for "Can't connect to the device"](./faq/alarms/cantConnect/cantConnect.md)
+
+[How do I modify user group setings to allow Read/Write access?"](./faq/admin/readWrite/readWrite.md)
+
+[How do I send a user password reset e-mail or reset 2-factor authentication?](./faq/admin/resetPassEmail/resetPassEmail.md)
+
+
+## Quick Reference Guides
+
+
+
