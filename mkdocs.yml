@@ -3,29 +3,82 @@
 #   - Waseem Mehany
 # date: 09-06-2022
 
-site_name: Help and Resources
-site_url: https://docs.specificenergy.com/
+site_name: ''
+site_url: https://support.specificenergy.com/
+site_author: Specific Energy
+site_description: >-
+  Get the support you need.
+
+# Copyright
+copyright: Copyright &copy; 2023 Specific Energy
 
 theme: 
   name: material
   logo: assets/images/logo-color.png
   features:
-    - navigation.expand
+    - content.code.copy
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    # - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.prune
+    # - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: white
+      accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+  plugins:
+    - typeset
+    - meta
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_css:
   - assets/styles/extra.css
 
 nav:
-  - Home: index.md
-  - Admin:
-    - admin/removeAccess/removeAccess.md
-  - Login:
-    - login/accountSetup/accountSetup.md
-  - Alarms:
-    - alarms/alarms.md
-  - Dashboard: 
-    - dashboards/timeZones/timeZones.md
-    - dashboards/accessDashboards/accessDashboards.md
-  - HMI:
-    - settings/style.md  
-    - settings/settings.md
+  - Home: 
+    - index.md
+    - Frequently Asked Questions: how-to/index.md
+    - Quick reference guides: reference/index.md
+  - Frequently Asked Questions:
+    - how-to/index.md
+    - Admin:
+      - how-to/admin/removeAccess/removeAccess.md
+      - how-to/admin/managingUsers/managingUsers.md
+    - Login:
+      - how-to/login/accountSetup/accountSetup.md
+    - Alarms:
+      - how-to/alarms/alarms.md
+    - Dashboard: 
+      - how-to/dashboards/timeZones/timeZones.md
+      - how-to/dashboards/accessDashboards/accessDashboards.md
+  - Quick Reference:
+    - reference/index.md
+    - HMI:
+      - settings/style.md  
+      - settings/settings.md
+
+  

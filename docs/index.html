@@ -1,0 +1,65 @@
+{% extends "main.html" %}
+
+      <!-- Main area -->
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+
+
+          <!-- Sidebars -->
+          {% block site_nav %}
+
+            <!-- Navigation -->
+            {% if nav %}
+              {% if page.meta and page.meta.hide %}
+                {% set hidden = "hidden" if "navigation" in page.meta.hide %}
+              {% endif %}
+              <div
+                class="md-sidebar md-sidebar--primary"
+                data-md-component="sidebar"
+                data-md-type="navigation"
+                {{ hidden }}
+              >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    {% include "partials/nav.html" %}
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+
+            <!-- Table of contents -->
+            {% if "toc.integrate" not in features %}
+              {% if page.meta and page.meta.hide %}
+                {% set hidden = "hidden" if "toc" in page.meta.hide %}
+              {% endif %}
+              <div
+                class="md-sidebar md-sidebar--secondary"
+                data-md-component="sidebar"
+                data-md-type="toc"
+                {{ hidden }}
+              >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    {% include "partials/toc.html" %}
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+          {% endblock %}
+
+          <!-- Page content -->
+          {% block container %}
+            <div class="md-content" data-md-component="content">
+				<article class="md-content__inner md-typeset">
+					{% block content %}
+					{% include "partials/home-search.html" %}					
+					<!-- {% include "partials/home-content.html" %} -->
+                	{% endblock %}
+              </article>
+            </div>
+          {% endblock %}
+
+          <!-- User preference: content -->
+          {% include "partials/javascripts/content.html" %}
+        </div>
+      </main>
