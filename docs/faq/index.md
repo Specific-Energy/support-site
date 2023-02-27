@@ -1,2 +1,2 @@
-# Frequently Askes Questions
+# Frequently Asked Questions
 
