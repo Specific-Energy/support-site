@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 ---
 
 <!-- <div class="home-page__search-box__wrapper">
