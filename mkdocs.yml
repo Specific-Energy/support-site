@@ -86,7 +86,7 @@ nav:
     - System settings:
       - ref/settings/index.md
     - Dashboards & HMI Screens:
-      - ref/hmi/index.md  
+      - ref/dashboards/index.md  
 
 
   
