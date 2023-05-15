@@ -1,3 +1,3 @@
-# Dashboards
+# Dashboards & HMI Screens
 
 Coming soon!

@@ -38,14 +38,14 @@ title: ""
 </div>
 
 <div class="home__link__container">
-	<img src="../assets/images/icons/hmi.svg" alt="">
-	<a class="link__title" href="./ref/hmi/">HMI Screens →</a>
+	<img src="../assets/images/icons/dashboard.svg" alt="">
+	<a class="link__title" href="./ref/dashboards/">Dashboards & HMI Screens →</a>
 </div>
-
+<!-- 
 <div class="home__link__container">
 	<img src="../assets/images/icons/dashboard.svg" alt="">
 	<a class="link__title" href="./ref/dashboards/">Dashboards →</a>
-</div>
+</div> -->
 
 
 

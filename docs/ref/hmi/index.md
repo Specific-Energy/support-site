@@ -1,3 +1,0 @@
-# HMI Screens
-
-Coming soon!
