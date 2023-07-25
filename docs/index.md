@@ -28,24 +28,8 @@ title: ""
 ## Quick Reference Guides
 
 <div class="home__link__container">
-	<img src="../assets/images/icons/device.svg" alt="">
-	<a class="link__title" href="./ref/devices/">Devices →</a>
+	<a class="link__title" href="./faq/login/index.md">Login</a>
 </div>
-
-<div class="home__link__container">
-	<img src="../assets/images/icons/settings.svg" alt="">
-	<a class="link__title" href="./ref/settings/">System settings →</a>
-</div>
-
-<div class="home__link__container">
-	<img src="../assets/images/icons/dashboard.svg" alt="">
-	<a class="link__title" href="./ref/dashboards/">Dashboards & HMI Screens →</a>
-</div>
-<!-- 
-<div class="home__link__container">
-	<img src="../assets/images/icons/dashboard.svg" alt="">
-	<a class="link__title" href="./ref/dashboards/">Dashboards →</a>
-</div> -->
 
 
 
