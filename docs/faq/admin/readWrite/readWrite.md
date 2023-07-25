@@ -4,6 +4,6 @@
 
 1. Navigate to the user, 
 
-2. click the settings (cog) icon next to the user name 
+2. Click the settings (cog) icon next to the username, 
 
-3. select "Modify Group Settings"
+3. Select "Modify Group Settings".
