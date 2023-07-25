@@ -4,6 +4,6 @@
 
 1. Navigate to the user, 
 
-2. click the settings (cog) icon next to the user name
+2. Click the settings (cog) icon next to the user name
 
-3. select **"Send Password Reset E-mail"** or **"Reset Two-Factor"** button.
+3. Select **"Send Password Reset E-mail"** or **"Reset Two-Factor"** button.
